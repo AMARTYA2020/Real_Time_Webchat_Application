@@ -1,0 +1,32 @@
+Websockets:
+what if we store in a Database and keep retriving information form there
+Websockets very useful for solving problem of https response
+Whenever we send request from a website and get response in return We(Client) are not always connected with server
+If we want a real time application then there must be strong link between client and server so as server can also push update
+HTTP Request cannot connect server client (NOT POSSIBLE IN HTTP PROTOCOL) 
+
+Websocket makes two way communication
+like http & https
+similarly here:
+  ws & wss (Web socket secure protocol)
+
+
+
+
+We implement with Socketio of Nodejs
+
+
+
+
+1st Description:
+ we simply make an interface chat type application in analogous to whatsapp using HTML and CSS
+
+2nd Description:
+ we create another folder for backend purpose using nodeserver.... (typing npm init) just after installing Nodejs in the built in terminal of VS code
+
+install npm i socket.io in the builtin terminal of VS code
+
+we create two websites  client.js and Nodejs(index.js)as a backend..basically we need to make connection between them
+
+
+in HTML page we use script src (/socket.io/socket.io.js)  FROM SOCKETIO DOCUMENTATION ! //including a javascript file basically
