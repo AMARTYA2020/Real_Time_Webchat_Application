@@ -1,4 +1,4 @@
-Websockets:
+# Websockets:
 what if we store in a Database and keep retriving information form there
 Websockets very useful for solving problem of https response
 Whenever we send request from a website and get response in return We(Client) are not always connected with server
